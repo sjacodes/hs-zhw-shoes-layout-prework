@@ -25,6 +25,6 @@
 /* Posititoning Classes */
 
 .columns {
-    -webkit-column-count:3
+    -webkit-column-count:3;
 }
 
